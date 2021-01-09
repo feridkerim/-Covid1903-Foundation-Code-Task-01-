@@ -2,9 +2,9 @@
 
 
 
-Mehsul
-Kategoriya
-Firma
+- Mehsul
+- Kategoriya
+- Firma
 bu classlardan ibaret bir sistem yazilmalidir.Bu sistem ele yazilmalidir ki asagidaki sorgulara cavab vere bilsin
 
 Firmanin adini daxil edende ona aid kategoriyalari gostersin
